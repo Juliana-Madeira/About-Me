@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juliana-Madeira
 - 👀 I’m interested in work, jobs and friends!
-- 🌱 I’m currently learning Java Script, PHP and English
+- 🌱 I’m currently learning HTML5, CSS3, Java Script, PHP and English
 - 💞️ I’m looking to collaborate on Front End
 - 📫 How to reach me: 
      e-mail: jugmad@ terra.com.br  / 
